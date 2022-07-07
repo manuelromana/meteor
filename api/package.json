@@ -21,7 +21,7 @@
     "jsonwebtoken": "^8.5.1",
     "lodash.random": "^3.2.0",
     "lodash.times": "^4.3.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mysql2": "^2.0.2",
     "nodemon": "^2.0.2",
     "passport": "^0.4.1",
